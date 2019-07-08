@@ -1,0 +1,25 @@
+{
+  "name": "elm-starter",
+  "version": "1.0.0",
+  "description": "My personal elm app starter (often used in codesandbox)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "elm-app start",
+    "test": "elm-app test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "create-elm-app": "3.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypenner/elm-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martypenner/elm-starter/issues"
+  },
+  "homepage": "https://github.com/martypenner/elm-starter#readme",
+  "keywords": []
+}
